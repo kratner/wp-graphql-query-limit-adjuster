@@ -2,8 +2,8 @@
 
 /**
  * Plugin Name: WordPress GraphQL Query Limit Adjuster
- * Plugin URI: https://github.com/kratner/wp-post-featured-on-wpengine-blog
- * Description: Mark post as featured on WP Engine's blog.
+ * Plugin URI: https://github.com/kratner/wp-graphql-query-limit-adjuster
+ * Description: Adjust number of queries returnable by GraphQL
  * Version: 1.0
  * Author: Keith Ratner
  * Author URI: http://keithratner.live
